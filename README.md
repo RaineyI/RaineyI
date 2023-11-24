@@ -3,6 +3,8 @@
 My name is Irina and I'm an Android Developer. 
 Welcome to my GitHub profile.
 
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/rainey_i)
+
 #### :gear: My basic knowledges:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
