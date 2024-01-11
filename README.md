@@ -3,9 +3,9 @@
 My name is Irina and I'm an Android Developer. 
 Welcome to my GitHub profile.
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/rainey_i)
-[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ira_rainey)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=ffffff)](https://vk.com/i_rainey)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=ffffff)](https://t.me/rainey_i)
+[![Instagram](https://img.shields.io/badge/-Instagram-9e53d0?style=flat&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ira_rainey)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=flat&logo=Vk&logoColor=ffffff)](https://vk.com/i_rainey)
 
 #### My basic knowledges:
 <div>
